@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Preeti &#8211; ColorfulMomentsArtSchool</title>
+	<atom:link href="/https://github.com/bpreeti/cmartschool.git/author/cmartschool_w1uiar/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://github.com/bpreeti/cmartschool.git/</link>
+	<description>ColorfulMomentsArtSchool</description>
+	<lastBuildDate>Mon, 15 May 2017 05:23:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Schedule</title>
+		<link>/https://github.com/bpreeti/cmartschool.git/timetable/event/schedule/</link>
+		<comments>/https://github.com/bpreeti/cmartschool.git/timetable/event/schedule/#respond</comments>
+		<pubDate>Thu, 04 May 2017 02:33:29 +0000</pubDate>
+		<dc:creator><![CDATA[Preeti]]></dc:creator>
+		
+		<guid isPermaLink="false">/https://github.com/bpreeti/cmartschool.git/?post_type=mp-event&#038;p=92</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[	<div id="" class="mptt-shortcode-wrapper mptt-table-responsive">
+			<select class="mptt-menu mptt-navigation-select" style="display:none;">
+							<option value="all">All Events</option>
+								<option value="schedule">Schedule</option>
+						</select>
+		<table class="mptt-shortcode-table " id="#all" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="0" data-column-id=""></th>
+			<th data-index="1" data-column-id="290">Class</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-14" data-index="14">
+												<td class="mptt-shortcode-hours" style="height:45px;">2:00 pm</td>
+														<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="290" rowspan="" colspan="1" data-row_height="45" style="height:45px;">
+								<div data-event-id="92" data-start="14" data-start-item="14"
+     data-end="17"
+     class="mptt-event-container id-1 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(208, 224, 227)"
+     data-bg_color="rgb(0, 255, 255)"
+     data-hover_color=""
+     data-color="rgb(0, 0, 255)"
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(0, 255, 255);     color:rgb(0, 0, 255);     height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Schedule" href="/https://github.com/bpreeti/cmartschool.git/timetable/event/schedule/" class="event-title">Schedule</a>
+						<p class="timeslot">
+				<time datetime="14:00" class="timeslot-start">2:00 pm</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="17:00" class="timeslot-end">5:00 pm</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-15" data-index="15">
+												<td class="mptt-shortcode-hours" style="height:45px;">3:00 pm</td>
+														<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="290" rowspan="" colspan="1" data-row_height="45" style="height:45px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-16" data-index="16">
+												<td class="mptt-shortcode-hours" style="height:45px;">4:00 pm</td>
+														<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="290" rowspan="" colspan="1" data-row_height="45" style="height:45px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+		<table class="mptt-shortcode-table " id="#schedule" style="display:none; " data-hide_empty_row="1">
+		<thead>
+<tr class="mptt-shortcode-row">
+			<th data-index="0" data-column-id=""></th>
+			<th data-index="1" data-column-id="290">Class</th>
+	</tr>
+</thead>		<tbody>
+						<tr class="mptt-shortcode-row-14" data-index="14">
+												<td class="mptt-shortcode-hours" style="height:45px;">2:00 pm</td>
+														<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="290" rowspan="" colspan="1" data-row_height="45" style="height:45px;">
+								<div data-event-id="92" data-start="14" data-start-item="14"
+     data-end="17"
+     class="mptt-event-container id-1 mptt-colorized"
+     data-type="event"
+     data-bg_hover_color="rgb(208, 224, 227)"
+     data-bg_color="rgb(0, 255, 255)"
+     data-hover_color=""
+     data-color="rgb(0, 0, 255)"
+     data-min-height=""
+     style="text-align:center;     background-color:rgb(0, 255, 255);     color:rgb(0, 0, 255);     height:100%;     ">
+	<div class="mptt-inner-event-content">
+						<a title="Schedule" href="/https://github.com/bpreeti/cmartschool.git/timetable/event/schedule/" class="event-title">Schedule</a>
+						<p class="timeslot">
+				<time datetime="14:00" class="timeslot-start">2:00 pm</time>
+				<span class="timeslot-delimiter"> - </span>
+				<time datetime="17:00" class="timeslot-end">5:00 pm</time>
+			</p>
+			</div>
+</div>							</td>
+										</tr>
+							<tr class="mptt-shortcode-row-15" data-index="15">
+												<td class="mptt-shortcode-hours" style="height:45px;">3:00 pm</td>
+														<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="290" rowspan="" colspan="1" data-row_height="45" style="height:45px;">
+															</td>
+										</tr>
+							<tr class="mptt-shortcode-row-16" data-index="16">
+												<td class="mptt-shortcode-hours" style="height:45px;">4:00 pm</td>
+														<td class="mptt-shortcode-event  mptt-event-vertical-default" data-column-id="290" rowspan="" colspan="1" data-row_height="45" style="height:45px;">
+															</td>
+										</tr>
+					</tbody>
+	</table>
+			<div class="mptt-shortcode-list ">
+								<div class="mptt-column">
+						<h3 class="mptt-column-title">Class</h3>
+						<ul class="mptt-events-list">
+																<li class="mptt-list-event" data-event-id="schedule"
+										style="border-left-color:rgb(0, 255, 255);">
+																						<a title="Schedule"
+												href="/https://github.com/bpreeti/cmartschool.git/timetable/event/schedule/"
+												class="mptt-event-title">
+											Schedule												</a>
+																						<p class="timeslot">
+												<time datetime="14:00" class="timeslot-start">2:00 pm</time>
+												<span class="timeslot-delimiter"> - </span>
+												<time datetime="17:00" class="timeslot-end">5:00 pm</time>
+											</p>
+																			</li>
+														</ul>
+					</div>
+						</div>
+		</div>
+
+]]></content:encoded>
+			<wfw:commentRss>/https://github.com/bpreeti/cmartschool.git/timetable/event/schedule/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/https://github.com/bpreeti/cmartschool.git/2017/05/03/hello-world/</link>
+		<comments>/https://github.com/bpreeti/cmartschool.git/2017/05/03/hello-world/#comments</comments>
+		<pubDate>Wed, 03 May 2017 05:34:47 +0000</pubDate>
+		<dc:creator><![CDATA[Preeti]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/https://github.com/bpreeti/cmartschool.git/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>/https://github.com/bpreeti/cmartschool.git/2017/05/03/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
